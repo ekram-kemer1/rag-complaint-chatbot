@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+chromadb
+gradio
+huggingface-hub
+transformers
+torch
+jupyter
+python-dotenv
